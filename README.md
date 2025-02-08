@@ -10,5 +10,5 @@
 
 ## Udacity - Graduation Certificate
 
-[NLP Nanodegree Certificate](Assets/NLP%20Nano%20Degree%20Certificate.pdf)
+![NLP Nanodegree](Assets/NLP_Certificate.png)
 
